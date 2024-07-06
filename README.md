@@ -1,6 +1,20 @@
 # CrudProductosFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+## Resumen
+
+En este repositorio es la parte del frontend del proyecto "crud-producto", en donde en este proyecto,
+es un CRUD sobre productos, donde uno puede:
+
+* Crear un producto
+* Editar un producto
+* Actualizar un producto
+* Eliminar un producto
+
+Esta parte del frontend del proyecto, está realizado con el framework Angular, que se encuentra conenctado
+con el backend creado con SpringBoot
+
+(Desde aquí está toda la documentacion que viene por defecto al crear un proyecto en Angular)
+
 
 ## Development server
 
